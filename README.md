@@ -1,5 +1,5 @@
 # Smart_DeFi_DAO
-We are an ecosystem called Smart DeFi DAO. 
+We are an ecosystem called Smart DeFi DAO.
 Smart means intelligent, and it represents our brand identity. DeFi stands for decentralized finance, meaning that our information storage system and financial payment system operate in a decentralized and blockchain based manner. 
 DAO is our execution model, which means it is people centric. There is no CEO or admin; everything is operated 100% by the people, and 100% of the project's revenue is distributed to the people.
 Decentralized projects operate through smart contracts, which must exist directly on the blockchain to be valid.
