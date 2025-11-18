@@ -63,6 +63,7 @@ When you reach a balance of 100, you will receive rewards from your entire team 
 With a balance of 1,000, this reward doubles; with 10,000, it quadruples.
 3.	Big Reward:
 1% of the total SBT bank reserve is distributed to users who reach balances of 100,000 and 1,000,000.
+________________________________________
 The next project is Smart DeFi Pay a digital currency payment gateway for businesses.
 Brands introduce themselves to Smart DeFi DAO users through the Smart Pay gateway, and instead of paying for advertising on billboards and media, they distribute the same cost as rewards to Smart members. In return, Smart members support these brands, consume their products, and introduce them to others. This reward is paid through network structure, turning each brand into a network company through Smart Pay. Here, you earn network rewards from daily marketplace purchases from millions of stores worldwide.
 First goal is to use network marketing, digital currency, and Smart members to support industries and production.
