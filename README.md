@@ -27,8 +27,8 @@ The $100 registration fee is distributed among users by the Smart DeFi NetWork s
 •	$5 is distributed as a gift through the Smart DeFi Gift smart contract to users who have not yet built a network.
 Each person can win 20 times, earning a total of $100, enabling them to participate for free.
 So no one loses if they build a network, they get rewards, and if they don't build a network, they get gifts. No one can get both at the same time so that the rewards and gifts reach everyone fairly.
-Since there is no CEO, the reward payment button is clicked by users. Of the remaining $5, the person who presses the button. 
-Since Binance block fees are currently very low, $5 is a lot for a button presser. Currently, $0.5 is enough, so 4.5% is deposited into the SBT backend.
+Since there is no CEO, the reward button is clicked by users. Of the remaining $5, the person who write the reawrd. Since Binance block fees are currently very low, $5 is a lot for a reward writer. Currently, $0.5 is enough.
+•	$0.5 is paid to Reward writer and $4.5 is deposited into the SBT.
 Additionally, 10% of the networkers’ income is permanently deposited into the SBT fund in Smart Bank. This means that dollars flow from higher-level networkers to lower-level SBT holders. Thus, in Smart DeFi NetWork, dollars are also paid from uplines to downlines.
 As a result, substantial amounts of dollars are deposited into SBT every hour.
 Have you ever seen a token whose value increases every hour? This has never existed in the world.
@@ -43,12 +43,14 @@ We have now surpassed 70,000 users, and the average value of each Point is $20.
 So by introducing new users, you receive your first network reward.
 From then on, even without personally introducing more people, you receive rewards from new users joining your left and right branches through your sub-groups because you created this network, and without you it would not exist.
 You do not need real time balance to earn rewards. If you register in a small branch, you receive a reward within less than 1 hour. If you register in your larger branch, it is stored on blockchain with no expiration and will be rewarded the moment a user registers in your smaller branch.
-To ensure rewards reach everyone and to maintain balance value stability, there is an income ceiling rule. Each user receives 5 rewards per hour, and the rest overflows to the sub groups. Again, dollars are being paid from top to bottom.
+To ensure rewards reach everyone and to maintain balance value stability, there is an Income Limitation Law. Each user receives 5 rewards per hour, and the rest overflows to the sub groups. 
+Again, dollars are being paid from top to bottom.
 5 reward per hour means $100 per hour, $2,400 per day, and $72,000 per month.
-When your balance exceeds 100, your income ceiling doubles to 10 bonuses per hour.
+When you bring 2 users to a balance of 100, your earning limit doubles to 10 reward per hour.
 In fact, networkers receive full Reward from the first day, and only after their balance exceeds 100 does 10% of their income get deposited into the SBT account.
-This means you receive your first 100 bonuses in full.
-Note: This is not a get-rich-quick scheme. You are rewarded based on the network you build. A balance of 1 gives you 1 reward; a balance of 1000 gives you 1000 rewards. Without building a network, there is no network reward everything depends on your activity.
+This means you receive your first 100 reward in full.
+Note: This is not a get-rich-quick scheme. You are rewarded based on the network you build. 
+A balance of 1 gives you 1 reward; a balance of 1000 gives you 1000 rewards. Without building a network, there is no network reward everything depends on your activity.
 When the bank's backing exceeds $1 million, you also earn from users buying SBT in the bank.
 Smart Bank rewards are instantaneous, not hourly. When someone in your network buys SBT, you instantly receive rewards. No balance condition applies, and it doesn’t matter whether the buyer is on your left or right branch.
 The higher your balance, the more SBT you are allowed to buy, and every time your network buys SBT, you receive rewards again from the same individuals.
@@ -76,5 +78,4 @@ Next, Smart Shop will be launched, allowing Smart users to sell their personal p
 We also have Smart Academy.
 Users who reach a balance of 100,000 undergo an intensive course and become university level instructors, teaching seven major skills. Graduates receive an international degree after two semesters, approved by prestigious universities worldwide.
 The goal of Smart DeFi DAO is to scientifically develop the network marketing and digital currency industries worldwide, as they represent the next generation of business.
-
 
