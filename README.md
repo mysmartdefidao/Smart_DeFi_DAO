@@ -3,6 +3,8 @@
 https://GitHub.Com/MySmartDeFiDAO/Smart_DeFi_NetWork/blob/main/My_Smart_DeFi_DAO.pdf
 
 
+
+
 We are an ecosystem called Smart DeFi DAO. 
 Smart means intelligent, and it represents our brand identity. DeFi stands for decentralized finance, meaning that our information storage system and financial payment system operate in a decentralized and blockchain based manner. 
 DAO is our execution model, which means it is people centric. There is no CEO or admin; everything is operated 100% by the people, and 100% of the project's revenue is distributed to the people.
@@ -26,7 +28,7 @@ Networkers increase the value of SBT every hour. Therefore, to buy SBT, you must
 Bulk purchase of SBT is impossible in order to prevent whales, and only Smart DeFi DAO members have the right to purchase SBT.
 Anyone can register with popular and reputable crypto wallets by paying $100 directly on the Binance blockchain through the Smart DeFi NetWork smart contract. They become SBT owners, Smart Bank shareholders, and partners in all Smart DeFi DAO ecosystem projects.
 Upon registration, users also receive SBT AirDrop.
-Each person pays $100 into the Smart DeFi Network and clicks “Become Owner” to register, after which they are referred to as an Owner. This $100 is then distributed to Owner by the Smart DeFi Network in less than one hour. 
+Each person pays $100 into the Smart DeFi Network and clicks “Become Owner” to register, after which they are referred to as an Owner. This $100 is then distributed to Owners by the Smart DeFi Network in less than one hour. 
 •	$90 goes to networkers.
 •	$5 is distributed as a gift through the Smart DeFi Gift smart contract to users who have not yet built a network.
 Each person can win 20 times, earning a total of $100, enabling them to participate for free.
@@ -80,4 +82,5 @@ Next, Smart Shop will be launched, allowing Smart users to sell their personal p
 We also have Smart Academy.
 Users who reach a balance of 100,000 undergo an intensive course and become university level instructors, teaching seven major skills. Graduates receive an international degree after two semesters, approved by prestigious universities worldwide.
 The goal of Smart DeFi DAO is to scientifically develop the network marketing and digital currency industries worldwide, as they represent the next generation of business.
+
 
