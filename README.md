@@ -2,8 +2,7 @@
 
 https://GitHub.Com/MySmartDeFiDAO/Smart_DeFi_NetWork/blob/main/My_Smart_DeFi_DAO.pdf
 
-
-
+-----------------
 
 We are an ecosystem called Smart DeFi DAO. 
 Smart means intelligent, and it represents our brand identity. DeFi stands for decentralized finance, meaning that our information storage system and financial payment system operate in a decentralized and blockchain based manner. 
@@ -59,13 +58,14 @@ Note: This is not a get-rich-quick scheme. You are rewarded based on the network
 
 Innovation in the income plan:
 We were inspired by the binary plan and invented a better and floating plan with higher income potential. In traditional binaries, users receive a certain amount of reward from each point and the rest is the company's profit and no more than 60 balances are paid per week. After the income ceiling, the excess amounts go to the company so that it does not go bankrupt and the users' big hand becomes zero.
-We named our plan Double Infinity.
-In Double Infinity, the rewards are not a fixed amount and whatever is in the contract is divided between the point recipients and the rewards are paid every hour. 240 rewards are paid per day, which means 1680 balances per week, and although the number of rewards is very large, at the same time the value of each point is paid 2 to 3 times more than that fixed number in traditional binary and when a user hits the ceiling, the rest goes to lower-level users and the big hand never becomes zero. Currently, the average value of the balance is $20.
-In traditional binary, users receive 60 balances of $8-10 per week
+We named our plan Double Infinity. In Double Infinity, the rewards are not a fixed amount and whatever is in the contract is divided between the point recipients and the rewards are paid every hour. 240 rewards are paid per day, which means 1680 balances per week, and although the number of rewards is very large, at the same time the value of each point is paid 2 to 3 times more than that fixed number in traditional binary and when a user hits the ceiling, the rest goes to lower-level users and the big hand never becomes zero. Currently, the average value of the balance is $20.
+In traditional binary, 1 out of every 6 rewards is not paid to you and you have to buy one of the company's products as a voucher. But in Double Infinity, this is not the case. That means you get 50 balances per week.
+In Double Infinity, you are rewarded for the activity of your upline and your crossline.
+Also, every registration made in your big branch increases the value of the balance, so you benefit from your big branch and at the same time it is stored in the blockchain and later you are rewarded again with the balance it releases.
+In traditional binary, users receive 50 balances of $8-10 per week
 In Double Infinity, users receive 1680 balances of $20 per week.
-From subsequent projects, funds will be deposited into the Smart DeFi Network project, increasing the value of the balance.
+From subsequent projects, funds will be deposited into the Smart DeFi Network project, increasing the value of the balance. 
 It is not out of the question that after the unveiling of Smart Pay, Smart Shop, and Smart Hotel, the value of the balance will exceed $50.
-
 When the bank's backing exceeds $1 million, you also earn from users buying SBT in the bank.
 Smart Bank rewards are instantaneous, not hourly. When someone in your network buys SBT, you instantly receive rewards. No balance condition applies, and it doesn’t matter whether the buyer is on your left or right branch.
 The higher your balance, the more SBT you are allowed to buy, and every time your network buys SBT, you receive rewards again from the same individuals.
@@ -92,5 +92,4 @@ Next, Smart Shop will be launched, allowing Smart users to sell their personal p
 We also have Smart Academy.
 Users who reach a balance of 100,000 undergo an intensive course and become university level instructors, teaching seven major skills. Graduates receive an international degree after two semesters, approved by prestigious universities worldwide.
 The goal of Smart DeFi DAO is to scientifically develop the network marketing and digital currency industries worldwide, as they represent the next generation of business.
-
 
